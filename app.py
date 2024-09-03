@@ -14,9 +14,9 @@ import plotly.graph_objects as go
 # In[784]:
 
 
-metro = pd.read_csv("https://raw.githubusercontent.com/GibsonHurst/Rental_Market_Price_Trends/ZORI_all_homes_metro.csv")
-cpi = pd.read_csv("https://raw.githubusercontent.com/GibsonHurst/Rent_Market_Price_Trends/CUSR0000SA0L2.csv")
-income = pd.read_csv("https://raw.githubusercontent.com/GibsonHurst/Rent_Market_Price_Trends/lapi1123msa.csv")
+metro = pd.read_csv("https://raw.githubusercontent.com/GibsonHurst/main/Rental_Market_Price_Trends/ZORI_all_homes_metro.csv")
+cpi = pd.read_csv("https://raw.githubusercontent.com/GibsonHurst/main/Rent_Market_Price_Trends/CUSR0000SA0L2.csv")
+income = pd.read_csv("https://raw.githubusercontent.com/GibsonHurst/main/Rent_Market_Price_Trends/lapi1123msa.csv")
 
 
 # In[786]:
