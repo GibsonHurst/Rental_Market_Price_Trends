@@ -280,7 +280,7 @@ fig3.update_layout(
             font=dict(size=12, color="gray")
         )
     ],
-    margin=dict(l=90, r=90, t=70, b=150) 
+    margin=dict(l=90, r=0, t=70, b=150) 
 )
 
 st.plotly_chart(fig3)
